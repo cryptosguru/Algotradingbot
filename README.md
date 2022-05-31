@@ -1,18 +1,7 @@
 # AlgoBot
 A C++ stock market algorithmic trading bot
 
-
-This is a rework of https://github.com/Chudleyj/Binance-Trading-Bot/
-
-This takes advantage of https://github.com/Chudleyj/IEX_CPP_API
-
 Calculates Technical indicators from stock market, will eventually make automatic buy/sell/hold decisions.
-
-You will need:
-
-Libcurl: https://curl.haxx.se/docs/install.html
-
-Jsoncpp: https://github.com/open-source-parsers/jsoncpp
 
 To run this on your machine.
 
